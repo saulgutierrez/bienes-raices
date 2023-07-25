@@ -8,4 +8,5 @@ Besides, is important to say, this is only a template, not includes all the back
 Technologies used: 
 <li>HTML</li>
 <li>Normalize.css</li>
+<li>CSS</li>
 
