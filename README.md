@@ -10,3 +10,4 @@ Technologies used:
 <li>Normalize.css</li>
 <li>CSS</li>
 
+![image](https://github.com/saulgutierrez/bienes-raices/assets/62368834/b49c757c-4ee8-4b4d-9b32-2dfee4e576a1)
